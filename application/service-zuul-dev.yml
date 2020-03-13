@@ -1,4 +1,4 @@
-#定义服务转发规则
+#定义服务转发规
 zuul:
   routes:
     item-service: #item-service这个名字是任意写的
