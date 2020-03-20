@@ -7,7 +7,7 @@ zuul:
       # 匹配item-service的请求item-service服务
       path: /item-service/**
       # 注册中心商品对应的注册名
-      serviceid: item-service
+      serviceid: item-servicexx
     #服务网关请求订单规则
     order-service:
       # 匹配order-service的请求order-service服务
